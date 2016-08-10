@@ -13,8 +13,8 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
-import com.tpajay.hadoop.cards.mappers.TokenizerMapper;
-import com.tpajay.hadoop.cards.reducers.IntSumReducer;
+import com.tpajay.hadoop.mappers.TokenizerMapper;
+import com.tpajay.hadoop.reducers.IntSumReducer;
 
 public class CountByKey extends Configured implements Tool {
 	

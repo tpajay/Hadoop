@@ -1,4 +1,4 @@
-package com.tpajay.hadoop.cards.reducers;
+package com.tpajay.hadoop.reducers;
 
 import java.io.IOException;
 

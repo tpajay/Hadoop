@@ -1,4 +1,4 @@
-package com.tpajay.hadoop.cards.mappers;
+package com.tpajay.hadoop.mappers;
 
 import java.io.IOException;
 import java.util.StringTokenizer;

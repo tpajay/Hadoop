@@ -13,8 +13,8 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.util.Tool;
 import org.apache.hadoop.util.ToolRunner;
 
-import com.tpajay.hadoop.cards.mappers.RecordMapper;
-import com.tpajay.hadoop.cards.reducers.NoKeyRecordCountReducer;
+import com.tpajay.hadoop.mappers.RecordMapper;
+import com.tpajay.hadoop.reducers.NoKeyRecordCountReducer;
 
 public class RowCount extends Configured implements Tool {
 	
