@@ -4,9 +4,13 @@
 
 2. Installed Cloudera CDH
 
-3. Create this project to test getting Big Data with Mappers and Reducers
+3. Created this project to test getting Big Data with Mappers and Reducers, etc to get a better understanding of HaDoop.
+
+
+
 
 -- Random Notes --
+
 HDFS: HaDoop Disributed File System (Cluster, 1..* servers)
 MapReduce
    HIVE: Analyze code using SQL (runs MapReduce jobs, good for long batch jobs)
